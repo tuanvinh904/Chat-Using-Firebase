@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "342922526204",
+    "firebase_url": "https://chatreactexample.firebaseio.com",
+    "project_id": "chatreactexample",
+    "storage_bucket": "chatreactexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342922526204:android:7b16a580f0768837",
+        "android_client_info": {
+          "package_name": "com.reactexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342922526204-ft92dptmfkrid9b3rnuk9oor23marlsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1EzrRmSjIydNVxUUjK4cUE-ynW7d9U0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

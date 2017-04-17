@@ -1,0 +1,19 @@
+npm i apisauce --save
+npm i react-native-router-flux --save
+npm i react-redux --save
+npm i redux --save
+npm i redux-persist --save
+npm i redux-saga --save
+npm i reduxsauce --save
+npm i seamless-immutable --save
+
+npm i reactotron-apisauce --save-dev
+npm i reactotron-react-native --save-dev
+npm i reactotron-redux --save-dev
+npm i reactotron-redux-saga --save-dev
+npm i babel-preset-es2015 --save-dev
+
+npm install
+
+100013850175752
+cole_27
